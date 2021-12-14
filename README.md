@@ -1,4 +1,4 @@
-# supertux_music
+# supertux_menu_music
 
 This is an enhanced menu-theme for Supertuxcart, staying true to its original melody.
 
