@@ -1,6 +1,14 @@
 # supertux_menu_music
 
-This is a study of the menu-theme of Supertuxcart, trying to expand on it whilst staying true to its original melody.
+"menuetheme"
+
+is an updated arrangement of the original menue-music.
+
+
+
+"Title_enhancedV13.76"
+
+is a study of the menu-theme of Supertuxcart, trying to expand on it whilst staying true to its original melody.
 
 The file is a dry export from MuseScore without any effects (pure plugins), of the piece in its current state.
 
