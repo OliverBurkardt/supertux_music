@@ -29,5 +29,4 @@ This Music-Rescore:
 
 It is open for others to refine and would be subsequently remixed twice a year, if an update or an enhancement has been made in the .mscz file.
 
-Kind Regards
-Oliver
+**********************************************
