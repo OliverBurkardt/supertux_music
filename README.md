@@ -1,11 +1,15 @@
 # supertux_menu_music
 
-"menuetheme"
+
+****************************************************
+"menuetheme_enhanced"
 
 is an updated arrangement of the original menue-music.
 
+**************************************
 
 
+****************************************************
 "Title_enhancedV13.76"
 
 is a study of the menu-theme of Supertuxcart, trying to expand on it whilst staying true to its original melody.
